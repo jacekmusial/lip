@@ -10,3 +10,6 @@ https://plugins.jetbrains.com/plugin/7275-codeglance
 
 *   FindBugs
 https://plugins.jetbrains.com/plugin/3847-findbugs-idea
+
+* SonarLint
+https://plugins.jetbrains.com/plugin/7973-sonarlint
