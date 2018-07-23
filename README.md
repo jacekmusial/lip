@@ -16,3 +16,6 @@ https://plugins.jetbrains.com/plugin/7973-sonarlint
 
 *   Lombok plugin for Intellij
 https://github.com/mplushnikov/lombok-intellij-plugin
+
+* .Ignore
+https://plugins.jetbrains.com/plugin/7495--ignore
