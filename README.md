@@ -19,3 +19,6 @@ https://github.com/mplushnikov/lombok-intellij-plugin
 
 * .Ignore
 https://plugins.jetbrains.com/plugin/7495--ignore
+
+* Key promoter
+https://plugins.jetbrains.com/plugin/9792-key-promoter-x
