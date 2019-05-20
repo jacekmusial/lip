@@ -21,7 +21,7 @@ https://github.com/mplushnikov/lombok-intellij-plugin
 https://plugins.jetbrains.com/plugin/7495--ignore
 
 * Quick Notes
-https://github.com/jrana/quicknotes
+https://plugins.jetbrains.com/plugin/4456-quick-notes
 
 * Key promoter
 https://plugins.jetbrains.com/plugin/9792-key-promoter-x
